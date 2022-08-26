@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+p{
+    color:purple
+    font-family: 'dyanaPuff'
+    font: size 32px;
+}
+
+#texto {
+        color: red ;
+        font-family: 'silkscreen'
+}
+#titulo{
+    color:bisque;
+    font-family: 'Verdana';
+    background-color: black;
+    background-color: rgba(245, 242, 66, 5);
+    width: 500px;
+    height: 500px;
+    border: 10px outset firebrick;
+    border-radius: 5px;
+}
+
+
+body{
+    background-image: url("asstes/messi.jpg");
+    background-size: cover;
+
+}
